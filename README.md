@@ -101,7 +101,4 @@ run.bat
 - The model recognises only two classes (knives and guns) and its performance depends on the dataset's coverage of angles, lighting and backgrounds.
 - Possible improvements: a larger and more varied dataset, data augmentation, more weapon classes, object localisation (bounding boxes) and cross-platform alerts.
 
-## Author
-
-**Goutham Reddy Palla**
-[GitHub](https://github.com/pallagouthamreddy) · pallagouthamreddy@gmail.com
+ 
