@@ -81,15 +81,7 @@ run.bat
 
 ## Screenshots
 
-<!-- Add your screenshots to a /screenshots folder and link them here -->
-
-| Step | Screenshot |
-|---|---|
-| Dataset loaded | `![Dataset loaded](screenshots/dataset.png)` |
-| Model generated | `![Model generated](screenshots/model.png)` |
-| Weapon detected in image | `![Image detection](screenshots/image_detection.png)` |
-| Weapon detected in video | `![Video detection](screenshots/video_detection.png)` |
-| Accuracy-loss graph | `![Training graph](screenshots/graph.png)` |
+There are screenshots in the screens of the usage and results of the project.
 
 ## Results
 
