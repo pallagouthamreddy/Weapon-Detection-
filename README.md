@@ -93,7 +93,7 @@ run.bat
 
 ## Results
 
-- Training accuracy increases and loss decreases with each epoch (see the graph above).
+- Training accuracy increases and loss decreases with each epoch (see the graph from screens).
  
 
 ## Limitations and Future Work
